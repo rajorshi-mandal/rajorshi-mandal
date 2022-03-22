@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajorshi-mandal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python script(any other after i complete python)
+- 🌱 I’m currently learning oops
+- 💞️ I’m looking to collaborate on python Java ,c++ script(any other after i complete python)
 - 📫 How to reach me ...
 - I'm a beginner, i know basics of python and learning day by day
 <!---
